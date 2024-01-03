@@ -1,0 +1,23 @@
+#poo{
+    background-color: coral;
+    background: size 14px;
+    margin-bottom: 15px;
+    text-align: justify;
+    font-size: larger;
+    border: 50px;
+    border-radius: 20px;
+}
+.movie{
+    font-size: xx-large;
+    color: midnightblue;
+    background-color: chartreuse;
+    background-size: 10px;
+    text-align: center;
+    border-color: rgb(191, 14, 14);
+}
+.gorib{
+    font-size: medium;
+    color: brown;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+}
